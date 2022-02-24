@@ -1,0 +1,8 @@
+/resources            (Status: 301) [Size: 316] [--> http://10.10.11.100/resources/]
+/index.php            (Status: 200) [Size: 25169]
+/assets               (Status: 301) [Size: 313] [--> http://10.10.11.100/assets/]
+/portal.php           (Status: 200) [Size: 125]
+/css                  (Status: 301) [Size: 310] [--> http://10.10.11.100/css/]
+/db.php               (Status: 200) [Size: 0]
+/js                   (Status: 301) [Size: 309] [--> http://10.10.11.100/js/]
+/server-status        (Status: 403) [Size: 277]
